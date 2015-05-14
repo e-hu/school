@@ -9,6 +9,8 @@
 		<module>school-webapp</module>
 		<module>school-commons</module>
 		<module>school-webapp-homework</module>
+		<module>school-webapp-user</module>
+		<module>school-webapp-exam</module>
 	</modules>
 	<properties>
 		<java-version>1.7</java-version>
