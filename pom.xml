@@ -7,10 +7,7 @@
 	<packaging>pom</packaging>
 	<modules>
 		<module>school-webapp</module>
-		<module>school-model</module>
 		<module>school-commons</module>
-		<module>school-service</module>
-		<module>school-dao</module>
 		<module>school-webapp-homework</module>
 	</modules>
 	<properties>
